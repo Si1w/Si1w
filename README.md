@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Si1w
+- 👀 I’m interested in SLG Game 
+- 🌱 I’m currently learning Mathematics with Economics in University College London
+- 📫 How to reach me stevenwu3721@163.com
+
+<!---
+Si1w/Si1w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
