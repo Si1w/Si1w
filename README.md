@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Si1w
 - 👀 I’m interested in SLG and RPG Game 
-- 🌱 I’m currently learning Mathematics with Economics in University College London
+- 🌱 I’m currently learning Computer Science in University College London
 - 📫 How to reach me stevenwu3721@163.com
 
 <!---
