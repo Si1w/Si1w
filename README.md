@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Si1w
-- 👀 I’m interested in SLG and RPG Game 
-- 🌱 I’m currently learning Computer Science in University College London
-- 📫 How to reach me stevenwu3721@163.com
+It's always good to have you here no matter if you found a bargain or suffered a loss.
 
 <!---
 Si1w/Si1w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
