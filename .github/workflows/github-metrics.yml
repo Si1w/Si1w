@@ -29,7 +29,8 @@ jobs:
           template: terminal
           config_timezone: Europe/London
           base: ""
-          plugin_languages: yes
+          plugin_languages: true
+          
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
