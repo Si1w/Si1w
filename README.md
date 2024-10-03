@@ -1,4 +1,4 @@
-[It's always good to have you here no matter if you found a bargain or suffered a loss.](https://si1w.github.io)
+[It's always good to have you here no matter if you found a bargain or suffered a loss.(My Blog)](https://si1w.github.io)
 
 ![Metrics](/github-metrics.svg)
 
