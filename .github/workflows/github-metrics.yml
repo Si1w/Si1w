@@ -28,7 +28,7 @@ jobs:
           # Options
           user: Si1w
           template: classic
-          base: header, activity, community
+          base: activity, community
           base_indepth: yes
           config_timezone: Europe/London
           plugin_languages: yes
