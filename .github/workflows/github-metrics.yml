@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: Si1w
-          template: classic
+          template: terminal
           base: activity, community
           base_indepth: yes
           config_timezone: Europe/London
