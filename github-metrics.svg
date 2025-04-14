@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  411</b> commits
+  <b>  412</b> commits
   <b>   11</b> pull requests reviewed
   <b>   29</b> pull requests opened
   <b>    9</b> issues opened
@@ -44,12 +44,12 @@
   <b>   14</b> users followed
   <b>    0</b> repositories sponsored
   <b>   18</b> repositories starred
-  <b>   15</b> repositories watched
+  <b>   16</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [#############       ] 63.86%
-<b>PYTHON      </b> [####                ] 18.71%
-<b>GDSCRIPT    </b> [####                ] 16.42%
-<b>RUBY        </b> [#                   ] 1.01 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [############        ] 57.55%
+<b>C++         </b> [#######             ] 33.35%
+<b>GDSCRIPT    </b> [##                  ] 8.57 %
+<b>RUBY        </b> [#                   ] 0.53 %
 </div>
 
 </pre>
