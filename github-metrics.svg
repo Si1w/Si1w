@@ -46,9 +46,9 @@
   <b>   21</b> repositories starred
   <b>   16</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 67.20%
-<b>C           </b> [###                 ] 12.00%
-<b>PYTHON      </b> [##                  ] 9.50 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 67.17%
+<b>C           </b> [###                 ] 11.99%
+<b>PYTHON      </b> [##                  ] 9.55 %
 <b>CUDA        </b> [##                  ] 6.30 %
 <b>OBJECTIVE-C </b> [#                   ] 2.27 %
 <b>SHELL       </b> [#                   ] 1.82 %
