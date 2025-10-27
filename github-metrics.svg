@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  478</b> commits
+  <b>  479</b> commits
   <b>   17</b> pull requests reviewed
   <b>   39</b> pull requests opened
   <b>   14</b> issues opened
@@ -51,7 +51,7 @@
 <b>PYTHON      </b> [###                 ] 10.39%
 <b>CUDA        </b> [##                  ] 6.24 %
 <b>OBJECTIVE-C </b> [#                   ] 2.25 %
-<b>SHELL       </b> [#                   ] 1.80 %
+<b>SHELL       </b> [#                   ] 1.81 %
 <b>JAVASCRIPT  </b> [#                   ] 0.72 %
 <b>NIX         </b> [#                   ] 0.18 %
 </div>
