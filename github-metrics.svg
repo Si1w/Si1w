@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  493</b> commits
+  <b>  497</b> commits
   <b>   17</b> pull requests reviewed
   <b>   39</b> pull requests opened
   <b>   14</b> issues opened
@@ -48,7 +48,7 @@
 </div>
 <div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 66.22%
 <b>C           </b> [###                 ] 11.82%
-<b>PYTHON      </b> [###                 ] 10.81%
+<b>PYTHON      </b> [###                 ] 10.82%
 <b>CUDA        </b> [##                  ] 6.21 %
 <b>OBJECTIVE-C </b> [#                   ] 2.24 %
 <b>SHELL       </b> [#                   ] 1.80 %
