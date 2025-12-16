@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  512</b> commits
+  <b>  532</b> commits
   <b>   17</b> pull requests reviewed
   <b>   39</b> pull requests opened
   <b>   14</b> issues opened
@@ -46,14 +46,14 @@
   <b>   29</b> repositories starred
   <b>   15</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 66.32%
-<b>C           </b> [###                 ] 11.84%
-<b>PYTHON      </b> [###                 ] 10.68%
-<b>CUDA        </b> [##                  ] 6.22 %
-<b>OBJECTIVE-C </b> [#                   ] 2.24 %
-<b>SHELL       </b> [#                   ] 1.80 %
-<b>JAVASCRIPT  </b> [#                   ] 0.72 %
-<b>NIX         </b> [#                   ] 0.18 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 65.37%
+<b>C           </b> [###                 ] 11.64%
+<b>PYTHON      </b> [###                 ] 10.50%
+<b>CUDA        </b> [##                  ] 6.12 %
+<b>OBJECTIVE-C </b> [#                   ] 2.21 %
+<b>SHELL       </b> [#                   ] 1.77 %
+<b>KOTLIN      </b> [#                   ] 1.68 %
+<b>JAVASCRIPT  </b> [#                   ] 0.71 %
 </div>
 
 </pre>
