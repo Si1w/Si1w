@@ -34,26 +34,26 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  490</b> commits
+  <b>  466</b> commits
   <b>   17</b> pull requests reviewed
   <b>   39</b> pull requests opened
   <b>   14</b> issues opened
-  <b>   29</b> issue comments
+  <b>   28</b> issue comments
 
 <b>Tracked activity</b>
   <b>   13</b> users followed
   <b>    0</b> repositories sponsored
-  <b>   31</b> repositories starred
-  <b>   14</b> repositories watched
+  <b>   33</b> repositories starred
+  <b>    8</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 65.37%
-<b>C           </b> [###                 ] 11.64%
-<b>PYTHON      </b> [###                 ] 10.50%
-<b>CUDA        </b> [##                  ] 6.12 %
-<b>OBJECTIVE-C </b> [#                   ] 2.21 %
-<b>SHELL       </b> [#                   ] 1.77 %
-<b>KOTLIN      </b> [#                   ] 1.68 %
-<b>JAVASCRIPT  </b> [#                   ] 0.71 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [####################] 95.43%
+<b>PYTHON      </b> [#                   ] 4.21 %
+<b>GDSCRIPT    </b> [#                   ] 0.24 %
+<b>ASSEMBLY    </b> [#                   ] 0.07 %
+<b>RUST        </b> [#                   ] 0.04 %
+<b>RUBY        </b> [#                   ] 0.01 %
+<b>SHELL       </b> [#                   ] 0.01 %
+<b>C++         </b> [#                   ] 0.00 %
 </div>
 
 </pre>
