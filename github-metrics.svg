@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="501" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="466" class="">
   
 
   <defs><style>@font-face {
@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  466</b> commits
+  <b>  438</b> commits
   <b>   17</b> pull requests reviewed
   <b>   39</b> pull requests opened
   <b>   14</b> issues opened
@@ -44,16 +44,14 @@
   <b>   13</b> users followed
   <b>    0</b> repositories sponsored
   <b>   33</b> repositories starred
-  <b>    8</b> repositories watched
+  <b>    6</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [####################] 95.43%
-<b>PYTHON      </b> [#                   ] 4.21 %
-<b>GDSCRIPT    </b> [#                   ] 0.24 %
-<b>ASSEMBLY    </b> [#                   ] 0.07 %
-<b>RUST        </b> [#                   ] 0.04 %
-<b>RUBY        </b> [#                   ] 0.01 %
-<b>SHELL       </b> [#                   ] 0.01 %
-<b>C++         </b> [#                   ] 0.00 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [################### ] 91.26%
+<b>GDSCRIPT    </b> [##                  ] 5.58 %
+<b>ASSEMBLY    </b> [#                   ] 1.58 %
+<b>RUST        </b> [#                   ] 1.11 %
+<b>RUBY        </b> [#                   ] 0.34 %
+<b>SHELL       </b> [#                   ] 0.13 %
 </div>
 
 </pre>
