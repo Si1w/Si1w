@@ -46,9 +46,9 @@
   <b>   35</b> repositories starred
   <b>    6</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [##################  ] 87.61%
-<b>GDSCRIPT    </b> [##                  ] 5.35 %
-<b>RUST        </b> [##                  ] 5.06 %
+<div class="stdin"><span class="ps1-path">si1w@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [##################  ] 87.64%
+<b>GDSCRIPT    </b> [##                  ] 5.36 %
+<b>RUST        </b> [##                  ] 5.03 %
 <b>ASSEMBLY    </b> [#                   ] 1.52 %
 <b>RUBY        </b> [#                   ] 0.33 %
 <b>SHELL       </b> [#                   ] 0.12 %
